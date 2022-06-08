@@ -1,5 +1,19 @@
 **Dog Breed** é um app desenvolvido em **React Native** com **Expo** utilizando **TypeScript**, para _authenticação_ e _visualização de fotos_ de cães de diferentes raças _via API externa_.
 
+### Telas
+
+<p align="center">
+  <img      src="https://raw.githubusercontent.com/jlllo/dog-breed/master/tela1.jpg" 
+    height="500" 
+  />
+  <img      src="https://raw.githubusercontent.com/jlllo/dog-breed/master/tela2.jpg" 
+    height="500" 
+  />
+  <img      src="https://raw.githubusercontent.com/jlllo/dog-breed/master/tela3.jpg" 
+    height="500" 
+  />
+</p>
+
 ### Funcionalidades
 
 - _Autenticação_
@@ -33,17 +47,3 @@ Adotei React Hooks nesse projeto, como nos projetos recentes, por acreditar que 
 - _Jest, Unit e Validação_
 
 Utilizei _Jest_ para testes unitários em algumas _actions_ do _Redux_, além de testes de requisição à _API_.
-
-### Telas
-
-<p align="center">
-  <img      src="https://raw.githubusercontent.com/jlllo/dog-breed/master/tela1.jpg" 
-    height="500" 
-  />
-  <img      src="https://raw.githubusercontent.com/jlllo/dog-breed/master/tela2.jpg" 
-    height="500" 
-  />
-  <img      src="https://raw.githubusercontent.com/jlllo/dog-breed/master/tela3.jpg" 
-    height="500" 
-  />
-</p>
